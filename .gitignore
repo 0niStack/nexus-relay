@@ -1,0 +1,6 @@
+.env
+.venv/
+venv/
+pip.conf
+uv.toml
+__pycache__/
